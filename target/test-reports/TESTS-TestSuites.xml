@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="IDCANBHAT-WS" id="0" name="AckFileTests" package="editransactions" tests="4" time="0.415" timestamp="2012-03-09T11:47:25">
+      <properties />
+
+      <testcase classname="editransactions.AckFileTests" name="testValidFile" time="0.337" />
+
+      <testcase classname="editransactions.AckFileTests" name="testInvalidStCodeNull" time="0.039" />
+
+      <testcase classname="editransactions.AckFileTests" name="testConstraints" time="0.014" />
+
+      <testcase classname="editransactions.AckFileTests" name="testInListConstraint" time="0.014" />
+
+      <system-out><![CDATA[--Output from testValidFile--
+--Output from testInvalidStCodeNull--
+--Output from testConstraints--
+--Output from testInListConstraint--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testValidFile--
+--Output from testInvalidStCodeNull--
+--Output from testConstraints--
+--Output from testInListConstraint--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
